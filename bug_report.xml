@@ -1,1 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ID> 0001 </ID>
+  <Title> Site pages do not open (white background / 404 / 50X error is shown)</Title>
+  <Steps> 1. *** 2. *** ... 7. ***  </Steps>
+  <Actual_result> the result we see </Actual_result>
+  <Expected_result> the result we wanted/expected to see </Expected_result>
+  <Severity> Trivial" "Minor", "Major", "Critical", "Blocker" </Severity>
 
+</root>
