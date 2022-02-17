@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<a> Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC</a>
+	<b> What is a client-server architecture</b>
+	<c> HTTP Methods of requests to the server.</c>
+	<d> HTTP server response codes.</d>
+	<e> Structures of HTTP requests and responses.</e>
+	<f> What is JSON, XML. Their structure.</f>
+	<g> API testing via Postman (JS, API autotests).</g>
+	<q> Removing and reading logs from an external server.</q>
+	<w> Sniffing http web traffic via Charles and Fiddler.</w>
+	<e> Dev Tools of web browsers (Google Chrome, FireFox).</e>
+	<r> VPN. (How it works, why you need it, how to use it, tool options)</r>
+	<y> Mobile testing.</y>
+	<aa> Feature iOS, Android, guidelines.</aa>
+	<bb> Building iOS applications on XCode. (Those who do not have a Mac computer, just look)</bb>
+	<cc> Building Android applications on Android Studio.</cc>
+	<dd> ADB (android device management).</dd>
+	<ee> Setting up proxy and vpn on iOS and Android.</ee>
+	<ff> Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</ff>
+	<gg> Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</gg>
+	<z> Basics of bash scripting, automation of routine tasks on the server.</z>
+	<x> Access to remote servers.</x>
+	<cc> SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</cc>
+	<v> Postgres database (installation, configuration and use).</v>
+	<n> Non-relational database Redis (installation, configuration and use).</n>
+	<m> Load testing in Jmeter.</m>
+	<k> Scrum development methodology.</k>
+	<l> Python. (Learning the basics. Creating a client-server application)</l>
+</root>
